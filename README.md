@@ -21,20 +21,23 @@
 ---
 ### 🛠️ Tech Stack & Tools
 
-<!-- Deretan Ikon Teknologi Bergerak Seragam, Glowing, dan Berfungsi -->
+<!-- Deretan Ikon Teknologi SVG (Stabil & Seragam) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Animate-Ico/Animate-Ico/main/icons/html.gif" alt="HTML5" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Animate-Ico/Animate-Ico/main/icons/css.gif" alt="CSS3" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Animate-Ico/Animate-Ico/main/icons/tailwindcss.gif" alt="Tailwind CSS" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Animate-Ico/Animate-Ico/main/icons/js.gif" alt="JavaScript" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Animate-Ico/Animate-Ico/main/icons/typescript.gif" alt="TypeScript" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Animate-Ico/Animate-Ico/main/icons/react.gif" alt="React" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Animate-Ico/Animate-Ico/main/icons/nextjs.gif" alt="Next.js" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Animate-Ico/Animate-Ico/main/icons/java.gif" alt="Java" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Animate-Ico/Animate-Ico/main/icons/springboot.gif" alt="Spring" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Animate-Ico/Animate-Ico/main/icons/supabase.gif" alt="Supabase" width="50" height="50" />
-  <!-- Ikon GIF Oracle DB yang digabungkan dan seragam -->
-  <img src="https://raw.githubusercontent.com/Animate-Ico/Animate-Ico/main/icons/oracle.gif" alt="Oracle Database" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="45" height="45" style="margin-right: 10px;" />
+</p>
+
+<p align="center">
+  <!-- Badge Oracle DB -->
+  <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database" />
 </p>
 ---
 
