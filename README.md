@@ -10,7 +10,7 @@
 
 ---
 ![Status](https://readme-widgets-mu.vercel.app/api/status)
-![Status](https://readme-widgets-abc123.vercel.app/api/status?message=Ngoding dulu ga si🔥)
+![Status](https://readme-widgets-abc123.vercel.app/api/status?message=Lagi+ngoding+nih+🔥)
 
 ### 🚀 About Me
 
