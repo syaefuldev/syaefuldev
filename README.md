@@ -37,14 +37,20 @@
 
 ### 🛠️ Tech Stack & Tools
 
+<!-- Deretan Ikon Teknologi dengan Format Bergerak/GIF -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,ts,js,react,mysql,docker,aws,github,prettier,spring,graphql&theme=light&perline=6" alt="Tech Stack" />
-  </a>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="Spring" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
 </p>
 
-<!-- Tambahan Oracle Database karena tidak ada di paket Skillicons -->
 <p align="center">
+  <!-- Badge khusus untuk Oracle Database -->
   <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database" />
 </p>
 
