@@ -9,6 +9,7 @@
 </p>
 
 ---
+![Status](https://readme-widgets-abc123.vercel.app/api/status)
 
 ### 🚀 About Me
 
