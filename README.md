@@ -19,6 +19,24 @@
 - 💬 Let's talk about software engineering, backend systems, and web development!
 
 ---
+### 🛠️ Tech Stack & Tools
+
+<!-- Deretan Ikon Teknologi Bergerak Seragam, Glowing, dan Berfungsi -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Animate-Ico/Animate-Ico/main/icons/html.gif" alt="HTML5" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Animate-Ico/Animate-Ico/main/icons/css.gif" alt="CSS3" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Animate-Ico/Animate-Ico/main/icons/tailwindcss.gif" alt="Tailwind CSS" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Animate-Ico/Animate-Ico/main/icons/js.gif" alt="JavaScript" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Animate-Ico/Animate-Ico/main/icons/typescript.gif" alt="TypeScript" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Animate-Ico/Animate-Ico/main/icons/react.gif" alt="React" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Animate-Ico/Animate-Ico/main/icons/nextjs.gif" alt="Next.js" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Animate-Ico/Animate-Ico/main/icons/java.gif" alt="Java" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Animate-Ico/Animate-Ico/main/icons/springboot.gif" alt="Spring" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Animate-Ico/Animate-Ico/main/icons/supabase.gif" alt="Supabase" width="50" height="50" />
+  <!-- Ikon GIF Oracle DB yang digabungkan dan seragam -->
+  <img src="https://raw.githubusercontent.com/Animate-Ico/Animate-Ico/main/icons/oracle.gif" alt="Oracle Database" width="50" height="50" />
+</p>
+---
 
 ### ⚡ Activity & Overview
 
@@ -35,24 +53,6 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-<!-- Deretan Ikon Teknologi Bergerak -->
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/html-icon.svg?animated=true" alt="HTML5" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/css-icon.svg?animated=true" alt="CSS3" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/tailwindcss-icon.svg?animated=true" alt="Tailwind CSS" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg?animated=true" alt="JavaScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/typescript-icon.svg?animated=true" alt="TypeScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg?animated=true" alt="React" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/nextjs-icon.svg?animated=true" alt="Next.js" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg?animated=true" alt="Java" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/spring-icon.svg?animated=true" alt="Spring" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/supabase-icon.svg?animated=true" alt="Supabase" width="50" height="50" />
-  <!-- Ikon GIF Oracle DB yang digabungkan -->
-  <img src="https://raw.githubusercontent.com/Animate-Ico/Animate-Ico/main/icons/oracle.gif" alt="Oracle Database" width="50" height="50" />
-</p>
----
 
 ### 🐍 GitHub Contribution Snake
 <p align="center">
