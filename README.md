@@ -1,5 +1,5 @@
 <!-- Header Bergelombang Animasi -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Syaeful!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=IT%20Software%20%7C%20Building%20Robust%20Systems&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Syaeful!&fontSize=50&animation=fadeIn&fontAlignY=45&desc=IT%20Software&descAlignY=60&descAlign=50" width="100%"/>
 
 <!-- Animasi Teks Mengetik -->
 <p align="center">
