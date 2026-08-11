@@ -39,11 +39,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,firebase,tailwind,js,html,css,figma&theme=dark&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,python,ts,js,react,mysql,docker,aws,github,prettier,spring,graphql&theme=light&perline=6" alt="Tech Stack" />
   </a>
 </p>
+
+<!-- Tambahan Oracle Database karena tidak ada di paket Skillicons -->
 <p align="center">
-  <!-- Badge khusus untuk Oracle Database -->
   <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database" />
 </p>
 
