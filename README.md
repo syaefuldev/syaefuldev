@@ -11,6 +11,9 @@
 ---
 ![Status](https://readme-widgets-mu.vercel.app/api/status)
 ![Status](https://readme-widgets-abc123.vercel.app/api/status?message=Lagi+ngoding+nih+🔥)
+<p align="center">
+  <img src="https://readme-widgets-abc123.vercel.app/api/status" alt="Status" />
+</p>
 
 ### 🚀 About Me
 
