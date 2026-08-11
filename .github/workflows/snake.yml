@@ -1,0 +1,38 @@
+name: Generate Snake Animation
+
+on:
+  # Menjalankan aksi secara otomatis setiap tengah malam
+  schedule:
+    - cron: "0 0 * * *" 
+  
+  # Memungkinkan kamu menjalankan aksi secara manual melalui tombol di tab Actions
+  workflow_dispatch:
+  
+  # Menjalankan aksi setiap kali ada perubahan/push di branch main
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      # Langkah 1: Mengambil data kontribusi dan mengubahnya jadi animasi SVG (Sesuai gambar yang kamu kirim)
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Langkah 2: Mengunggah/Push file SVG tersebut ke branch bernama "output"
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
