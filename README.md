@@ -21,16 +21,21 @@
 ---
 ### 🛠️ Tech Stack & Tools
 
-<!-- Deretan Ikon Teknologi SVG (Stabil & Seragam) -->
+<!-- Icon Animasi (TechStack Generator) -->
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="45" height="45" style="margin-right: 10px;" />
+</p>
+
+<!-- Icon Statis (belum tersedia versi animasinya) -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="45" height="45" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="45" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="45" height="45" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="45" height="45" style="margin-right: 10px;" />
 </p>
