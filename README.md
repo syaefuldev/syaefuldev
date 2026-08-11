@@ -9,7 +9,7 @@
 </p>
 
 ---
-![Status Widget](https://readme-widgets-mu.vercel.app/api/status?message=Semangat&theme=light)
+
 
 ### 🚀 About Me
 
