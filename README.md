@@ -9,6 +9,7 @@
 </p>
 
 ---
+![Status Widget](https://readme-widgets-mu.vercel.app/api/status?message=Busy&color=red)
 
 
 ### 🚀 About Me
