@@ -16,7 +16,7 @@
 
 - 🔭 I am an **IT Software** professional, focused on building robust and scalable applications.
 - 💻 My main stack heavily features **Java, Spring Boot, and Oracle Database** for backend development.
-- 🌐 I also have experience integrating modern frontend technologies like **Next.js, React, and Firebase**.
+- 🌐 I also have experience integrating modern frontend technologies like **Next.js, React, and Supabase**.
 - 🎨 Passionate about writing clean code, designing efficient system architectures, and creating seamless user experiences.
 - 💬 Let's talk about software engineering, backend systems, and web development!
 
