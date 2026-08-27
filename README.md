@@ -48,20 +48,6 @@
 </p>
 ---
 
-### ⚡ Activity & Overview
-
-<!-- Grafik Aktivitas Dinamis Full-Width -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syaefuldev&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
-
-<!-- Kartu Stats & Top Languages Versi Stabil -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syaefuldev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syaefuldev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
----
 
 
 ### 🐍 GitHub Contribution Snake
