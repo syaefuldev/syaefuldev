@@ -46,7 +46,6 @@
   <!-- Badge Oracle DB -->
   <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database" />
 </p>
----
 
 
 
