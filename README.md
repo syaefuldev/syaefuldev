@@ -1,17 +1,3 @@
-<!-- Header Bergelombang Animasi -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Syaeful!&fontSize=50&animation=fadeIn&fontAlignY=45&desc=IT%20Software&descAlignY=60&descAlign=50" width="100%"/>
-
-<!-- Animasi Teks Mengetik -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F5A9B8&center=true&vCenter=true&width=435&lines=IT+Software+Professional;Java+%26+Spring+Boot;Working+with+Oracle+DB;Always+learning+new+things" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-
-
 ### 🚀 About Me
 
 - 🔭 I am an **IT Software** professional, focused on building robust and scalable applications.
